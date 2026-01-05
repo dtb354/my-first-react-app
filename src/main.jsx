@@ -17,7 +17,7 @@ console.log(pi);
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
-    <Greeting />
+    <App />
   </StrictMode>
 )
 
